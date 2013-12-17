@@ -1,2 +1,2 @@
-lelelewy.github.io
+This is my homepage with information included from my resume.
 ==================
